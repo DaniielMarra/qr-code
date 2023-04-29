@@ -19,12 +19,15 @@ body {
     max-width: 375px;
     border-radius: 1rem;
     box-shadow: 3px 3px 10px 0px hsla(219, 15%, 55%, 0.493);
-    padding: 15px;
+    padding-top: 0.9rem;
 }
 
 img {
-    width: 375px;
+    width: 95%;
     border-radius: 2rem;
+    display: block;
+    text-align: center;
+    margin: auto;
 }
 
 h1 {
